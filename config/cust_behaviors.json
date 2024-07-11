@@ -1,1 +1,10 @@
-[]
+[
+	{
+		"code": "&bhm RGUI ;",
+		"name": "&bhm RGUI ;",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
