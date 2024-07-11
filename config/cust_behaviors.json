@@ -6,5 +6,13 @@
 			"code"
 		],
 		"type": "UD"
+	},
+	{
+		"code": "&bhm RGUI SEMICOLON",
+		"name": "&bhm RGUI SEMICOLON",
+		"params": [
+			"code"
+		],
+		"type": "UD"
 	}
 ]
