@@ -1,3 +1,9 @@
+macro_mute: macro_mute{
+compatible = "zmk,behavior-macro";
+label = "macro_mute";
+#binding-cells = <0>;
+bindings = <&kp LEFT_CONTROL>, <&kp LALT>, <&kp M>;
+};
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
 label = "macro_quotes";
