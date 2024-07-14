@@ -78,7 +78,7 @@
             >;
         };
 
-        layer_SYMBOL_LEFT {
+        layer_SYMBOLS {
             bindings = <
  &trans  &trans  &trans  &trans     &trans  &trans            &trans                                                  &trans  &trans            &trans             &trans                &trans                 &trans  &trans
  &trans  &trans  &trans  &trans     &trans  &trans            &trans                                                  &trans  &trans            &trans             &trans                &trans                 &trans  &trans
@@ -87,5 +87,6 @@
  &trans  &trans  &trans  &trans     &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                    &trans             &trans                &trans                 &trans  &trans
             >;
         };
+
     };
 };
