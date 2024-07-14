@@ -80,11 +80,11 @@
 
         layer_SYMBOL_LEFT {
             bindings = <
- &trans  &trans  &trans  &trans  &trans     &trans            &trans                                                  &trans            &trans             &trans                &trans                 &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans     &trans            &trans                                                  &trans            &trans             &trans                &trans                 &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &kp TILDE            &trans  &trans  &trans                  &trans  &trans  &trans  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans  &trans
- &trans  &trans  &trans  &trans  &trans     &trans                            &trans                  &trans                            &trans             &trans                &trans                 &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                       &trans  &trans  &trans                  &trans  &trans  &trans                               &trans                &trans                 &trans  &trans  &trans
+ &trans  &trans  &trans  &trans     &trans  &trans            &trans                                                  &trans  &trans            &trans             &trans                &trans                 &trans  &trans
+ &trans  &trans  &trans  &trans     &trans  &trans            &trans                                                  &trans  &trans            &trans             &trans                &trans                 &trans  &trans
+ &trans  &trans  &trans  &trans  &kp GRAVE  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans
+ &trans  &trans  &trans  &trans     &trans  &trans                            &trans                  &trans                  &trans            &trans             &trans                &trans                 &trans  &trans
+ &trans  &trans  &trans  &trans     &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                    &trans             &trans                &trans                 &trans  &trans
             >;
         };
 
